@@ -2,6 +2,9 @@
 
 A modern, responsive, and robust **Product Management Admin Dashboard** built with **Next.js (App Router)**, **React 19**, **Tailwind CSS v4**, and **Axios**, integrated with the free [DummyJSON API](https://dummyjson.com).
 
+🔗 **Live Application Demo**: [https://product-admin-dashboard-blue-eta.vercel.app](https://product-admin-dashboard-blue-eta.vercel.app)  
+📦 **GitHub Repository**: [https://github.com/saurabhbakare/Product-Admin-Dashboard](https://github.com/saurabhbakare/Product-Admin-Dashboard)
+
 ---
 
 ## 📋 Table of Contents
